@@ -16,23 +16,14 @@ El enlace va directamente al repositorio del proyecto (no a la página de GitHub
 
 Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar el orden de lista.
 
-
-* Apellidos, Nombre - Título del CRUD (enlazar con el repositorio)
-
-* Aragón Rodríguez, Rafael - []()
 * Amo Olsson, Christian - [Título del proyecto](enlace)
 * Caralt Caralt, Alejandro - [Título del proyecto](enlace)
 * Espejo García, Ignacio - [Título del proyecto](enlace)
 * Fernández Nadales, Andrés - [Título del proyecto](enlace)
 * García Fernández, Guillermo - [Título del proyecto](enlace)
 * García Ruiz, Cintia - [Título del proyecto](enlace)
-
-Matabuena Berdugo, Rocío wda
-
-Rebollo Benítez, Salvador My Galaxy Catalogue (Gestor de catálogos)
-
-Ruiz Mostazo, José Antonio We Married
-
-Vargas Galán, Jesús Organizador de periféricos de PC
-
-Villena Gil, Juan David GymApp
+* Matabuena Berdugo, Rocío - [Título del proyecto](enlace)
+* Rebollo Benítez, Salvador - [Título del proyecto](enlace)
+* Ruiz Mostazo, José Antonio - [Título del proyecto](enlace)
+* Vargas Galán, Jesús - [Título del proyecto](enlace)
+* Villena Gil, Juan David - [Título del proyecto](enlace)
