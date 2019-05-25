@@ -16,7 +16,7 @@ El enlace va directamente al repositorio del proyecto (no a la página de GitHub
 
 Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar el orden de lista.
 
-* Amo Olsson, Christian - [Título del proyecto](enlace)
+* Amo Olsson, Christian - [PAPEO](https://github.com/christianraulamo/Proyecto_Final)
 * Caralt Caralt, Alejandro - [Título del proyecto](enlace)
 * Espejo García, Ignacio - [Título del proyecto](enlace)
 * Fernández Nadales, Andrés - [Título del proyecto](enlace)
