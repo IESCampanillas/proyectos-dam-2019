@@ -24,7 +24,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * García Ruiz, Cintia - [Título del proyecto](enlace)
 * Matabuena Berdugo, Rocío - [Título del proyecto](enlace)
 * Rebollo Benítez, Salvador - [Título del proyecto](enlace)
-* Ruiz Mostazo, José Antonio - [Título del proyecto](enlace)
+* Ruiz Mostazo, José Antonio - [Weddings](https://github.com/joseantonioruizmostazo/Proyecto_Final)
 * Simón Ramos, Pablo - [Título del proyecto](enlace)
 * Vargas Galán, Jesús - [Título del proyecto](enlace)
 * Villena Gil, Juan David - [Título del proyecto](enlace)
