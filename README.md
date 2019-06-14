@@ -27,5 +27,5 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Rebollo Benítez, Salvador - [Título del proyecto](enlace)
 * Ruiz Mostazo, José Antonio - [Weddings](https://github.com/joseantonioruizmostazo/Proyecto_Final)
 * Simón Ramos, Pablo - [Título del proyecto](enlace)
-* Vargas Galán, Jesús - [Título del proyecto](enlace)
+* Vargas Galán, Jesús - [Gbook](https://github.com/jesusvargasgalan/Gbook-IOS)
 * Villena Gil, Juan David - [Título del proyecto](enlace)
