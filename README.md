@@ -19,6 +19,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Amo Olsson, Christian - [PAPEO](https://github.com/christianraulamo/Proyecto_Final)
 * Caralt Caralt, Alejandro - [Título del proyecto](enlace)
 * Espejo García, Ignacio - [Título del proyecto](enlace)
+* Fernández García, Jose Antonio - [Jarpa](https://github.com/joseanfernandez/Jarpa)
 * Fernández Nadales, Andrés - [Tourism Cities](https://github.com/andresfernandeznad/TourismCitiesAndroid)
 * García Fernández, Guillermo - [Título del proyecto](enlace)
 * García Ruiz, Cintia - [Título del proyecto](enlace)
