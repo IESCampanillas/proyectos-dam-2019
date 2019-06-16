@@ -26,6 +26,6 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Matabuena Berdugo, Rocío - [Título del proyecto](enlace)
 * Rebollo Benítez, Salvador - [Título del proyecto](enlace)
 * Ruiz Mostazo, José Antonio - [Weddings](https://github.com/joseantonioruizmostazo/Proyecto_Final)
-* Simón Ramos, Pablo - [Título del proyecto](enlace)
+* Simón Ramos, Pablo - [Best Backgrounds](https://github.com/Pasira/BestBackgrounds)
 * Vargas Galán, Jesús - [Gbook](https://github.com/jesusvargasgalan/Gbook-IOS)
 * Villena Gil, Juan David - [Título del proyecto](enlace)
