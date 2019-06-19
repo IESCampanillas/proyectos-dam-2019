@@ -21,7 +21,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Espejo García, Ignacio - [Título del proyecto](enlace)
 * Fernández García, Jose Antonio - [Jarpa](https://github.com/joseanfernandez/Jarpa)
 * Fernández Nadales, Andrés - [Tourism Cities](https://github.com/andresfernandeznad/TourismCitiesAndroid)
-* García Fernández, Guillermo - [Avispro](https://github.com/guillermogarcia/avispro) [Avispro Api](https://github.com/guillermogarcia/avispro-api)
+* García Fernández, Guillermo - [Avispro](https://github.com/guillermogarcia/avispro) y [Avispro Api](https://github.com/guillermogarcia/avispro-api)
 * García Ruiz, Cintia - [Título del proyecto](enlace)
 * Matabuena Berdugo, Rocío - [Título del proyecto](enlace)
 * Rebollo Benítez, Salvador - [Título del proyecto](enlace)
